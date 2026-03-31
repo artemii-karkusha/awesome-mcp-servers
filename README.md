@@ -474,6 +474,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
+- **[UCP JavaScript SDK](https://github.com/OmnixHQ/ucp-js-sdk)** - Runtime-validated Zod schemas and TypeScript types for the Universal Commerce Protocol (UCP) — the open agentic commerce standard with native MCP transport support. Auto-generated from the UCP JSON Schema spec with 100% coverage — checkout, orders, payments, payment handlers, fulfillment, discounts, buyer consent, AP2 mandates, discovery profiles, and all inline enums. Available on [npm](https://www.npmjs.com/package/@omnixhq/ucp-js-sdk) as `@omnixhq/ucp-js-sdk`.
 
 <br />
 
